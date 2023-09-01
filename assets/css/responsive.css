@@ -255,10 +255,11 @@
     .free2 {
         padding-top: 30px;
     }
- .buttonprev, 
- .buttonnxt{
-    display: none;
- }
+
+    .buttonprev,
+    .buttonnxt {
+        display: none;
+    }
 }
 
 @media (max-width:576px) {
